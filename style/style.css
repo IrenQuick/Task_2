@@ -1,0 +1,28 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+foreignObject {
+  aspect-ratio: 16 / 9;
+  font-size: 1rem;
+}
+video {
+  width: 100%;
+}
+text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  fill: #ffffff;
+}
+.back {
+  fill: #000000;
+}
+.erectio [fill="black"] {
+  height: .5rem;
+}
